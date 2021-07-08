@@ -2,6 +2,7 @@
   #app
     #nav
       router-link(to="/") Home
+    router-view
 </template>
 
 <style lang="scss">
